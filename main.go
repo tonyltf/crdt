@@ -1,1 +1,5 @@
 package crdt
+
+func main() {
+
+}
